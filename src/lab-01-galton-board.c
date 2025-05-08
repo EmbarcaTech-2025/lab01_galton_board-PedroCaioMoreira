@@ -16,7 +16,7 @@
  #include <math.h>
  #include "pico/stdlib.h"
  #include "pico/time.h"
- #include "inc/ssd1306.h"
+ #include "include/ssd1306.h"
  #include "hardware/i2c.h"
  
  #define I2C_SDA       14
