@@ -1,6 +1,6 @@
 /*
  * galton_board.c
- * Projeto Galton Board - Passo Final: Distribuição Normal Visível com Bins Precisos
+ * Projeto Galton Board - 
  * Placa: BitdogLab (RP2040 + SSD1306 integrado)
  * VSCode para programação
  *
